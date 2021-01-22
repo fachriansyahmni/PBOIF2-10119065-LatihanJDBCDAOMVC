@@ -9,9 +9,13 @@ import edu.fachriansyahmni.latihanmvcjdb.model.PelangganModel;
 import edu.fachriansyahmni.latihanmvcjdb.view.PelangganView;
 import javax.swing.JOptionPane;
 
-/**
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Implementasi JDBC-DAO-MVC
  *
- * @author Fachriansyah PC
  */
 public class PelangganController {
     private PelangganModel model;

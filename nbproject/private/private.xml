@@ -6,12 +6,15 @@
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/controller/PelangganController.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/model/PelangganModel.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/impl/PelangganDaoImpl.java</file>
+            <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/error/PelangganException.java</file>
+            <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/database/KingBarbershopDatabase.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdbc/main/PBOIF2PERT1310119065FACHRIANSYAHMUHNURI.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/entity/Pelanggan.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/event/PelangganListener.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/view/MainViewPelanggan.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/view/PelangganView.java</file>
             <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/model/TabelPelangganModel.java</file>
+            <file>file:/D:/Data%20Sekolah/kuliah/Semester%203/PBO/gui/PBOIF2-10119065-LatihanJDBCDAOMVC/src/edu/fachriansyahmni/latihanmvcjdb/service/PelangganDao.java</file>
         </group>
     </open-files>
 </project-private>

@@ -11,9 +11,13 @@ import edu.fachriansyahmni.latihanmvcjdb.service.PelangganDao;
 import java.util.List;
 import java.sql.*;
 import java.util.ArrayList;
-/**
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Implementasi JDBC-DAO-MVC
  *
- * @author Fachriansyah PC
  */
 public class PelangganDaoImpl implements PelangganDao{
 

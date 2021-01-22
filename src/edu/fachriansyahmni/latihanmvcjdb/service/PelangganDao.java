@@ -9,9 +9,13 @@ import edu.fachriansyahmni.latihanmvcjdb.entity.Pelanggan;
 import edu.fachriansyahmni.latihanmvcjdb.error.PelangganException;
 import java.util.List;
 
-/**
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Implementasi JDBC-DAO-MVC
  *
- * @author Fachriansyah PC
  */
 public interface PelangganDao {
     public void insertPelanggan(Pelanggan pelanggan) throws PelangganException;

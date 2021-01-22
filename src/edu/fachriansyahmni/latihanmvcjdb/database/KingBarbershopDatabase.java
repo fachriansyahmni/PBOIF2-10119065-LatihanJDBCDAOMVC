@@ -5,9 +5,13 @@ import edu.fachriansyahmni.latihanmvcjdb.impl.PelangganDaoImpl;
 import edu.fachriansyahmni.latihanmvcjdb.service.PelangganDao;
 import java.sql.*;
 
-/**
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Implementasi JDBC-DAO-MVC
  *
- * @author Fachriansyah PC
  */
 public class KingBarbershopDatabase {
    private static Connection connection;

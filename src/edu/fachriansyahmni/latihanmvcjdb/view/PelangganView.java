@@ -19,9 +19,13 @@ import javax.swing.JTextField;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-/**
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Implementasi JDBC-DAO-MVC
  *
- * @author Fachriansyah PC
  */
 public class PelangganView extends javax.swing.JPanel implements PelangganListener, ListSelectionListener{
 

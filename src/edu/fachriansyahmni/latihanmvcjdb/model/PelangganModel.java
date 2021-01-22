@@ -11,9 +11,13 @@ import edu.fachriansyahmni.latihanmvcjdb.error.PelangganException;
 import edu.fachriansyahmni.latihanmvcjdb.event.PelangganListener;
 import edu.fachriansyahmni.latihanmvcjdb.service.PelangganDao;
 import java.sql.*;
-/**
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Implementasi JDBC-DAO-MVC
  *
- * @author Fachriansyah PC
  */
 public class PelangganModel {
     private int id;
